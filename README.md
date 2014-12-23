@@ -13,8 +13,8 @@ optimized I'm sure, but for my purposes that much is overkill (diminishing retur
 
 It was compiled under the following command:
 
-gcc -std=gnu99 main.c -o <NAME>
+gcc -std=gnu99 main.c -o &lt;NAME&gt;
 
-with <NAME> being the obvious intended variable name of the binary.
+with &lt;NAME&gt; being the obvious intended variable name of the binary.
 
 If you find it useful or have suggestions, let me know. Thanks.
